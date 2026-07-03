@@ -4,9 +4,29 @@ Food Order App adalah aplikasi pemesanan makanan sederhana berbasis Flutter. Pen
 
 ## Tampilan Aplikasi
 
-<p align="center">
-  <img src="assets/screenshots/food-order-home.png" alt="Tampilan halaman utama Food Order App" width="360">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/food-order-home.png" alt="Halaman utama Food Order App" width="240"><br>
+      <strong>Daftar Menu</strong>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/food-order-products-added.png" alt="Simulasi menambahkan produk" width="240"><br>
+      <strong>Tambah Produk</strong><br>
+      Dua produk ditambahkan dengan total Rp35.000.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/food-order-cart.png" alt="Halaman keranjang pesanan" width="240"><br>
+      <strong>Keranjang Pesanan</strong>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/food-order-checkout.png" alt="Dialog checkout berhasil" width="240"><br>
+      <strong>Checkout Berhasil</strong>
+    </td>
+  </tr>
+</table>
 
 ## Fitur
 
