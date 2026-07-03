@@ -2,6 +2,12 @@
 
 Food Order App adalah aplikasi pemesanan makanan sederhana berbasis Flutter. Pengguna dapat melihat daftar menu, menambahkan makanan atau minuman ke keranjang, menghapus pesanan, membatalkan seluruh pesanan, serta melakukan checkout. Total harga dan jumlah item diperbarui secara otomatis.
 
+## Tampilan Aplikasi
+
+<p align="center">
+  <img src="assets/screenshots/food-order-home.png" alt="Tampilan halaman utama Food Order App" width="360">
+</p>
+
 ## Fitur
 
 - Menampilkan daftar makanan dan minuman beserta harga.
